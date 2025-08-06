@@ -1,0 +1,43 @@
+,preceptorID,specialty,name,addressSubpremise,addressStreetNumber,addressStreetRoute,addressNeighborhood,addressLocality,addressDistrict,addressCounty,addressState,addressCountry,addressPostalCode,addressPostalCodeSuffix,addressFormatted,geoLatitude,geoLongitude,size
+18,12695,hematology/oncology,Natchitoches Regional Medical Center Cancer Center,,,,,Natchitoches,,,LA,,71457.0,,"211 Medical Drive, Natchitoches LA 71457",31.7617,-93.0916,5
+28,12723,hematology/oncology,Bon Secours Hematology Oncology,,,,,Greenville,,,SC,,29607.0,,"104 Innovation Drive, Greenville SC 29607",34.8285,-82.3516,5
+108,12919,Oncology,Baton Rouge General,,,,,Baton Rouge,,,LA,,70809.0,,"8585 Picardy Avenue, Baton Rouge LA 70809",30.4089,-91.0842,5
+128,12974,hematology/oncology,MUSC Orangeburg,,,,,MUSC Orangeburg,,,SC,,29118.0,,"3000 St. Matthews Road, MUSC Orangeburg SC 29118",33.5675,-80.9248,5
+130,12980,hematology/oncology,Florida Cancer Specialists,,,,,Fleming Island,,,FL,,32003.0,,"4689 US Highway 17, Suite 2, Fleming Island FL 32003",30.0933,-81.719,5
+160,13051,Oncology,"Hematology & Oncology Associates of Alabama, LLC",,,,,Gadsden,,,AL,,35903.0,,"Gadsden Regional Cancer Center, 200 Medical Center Drive, Gadsden AL 35903",33.9845,-85.9077,5
+251,13308,hematology/oncology,Bon Secours Saint Francis Health System,,,,,Greenville,,,SC,,29601.0,,"1 Saint Francis Drive, Greenville SC 29601",34.8472,-82.406,5
+347,13529,hematology/oncology,Bon Secours Saint Francis Health System,,,,,Greenville,,,SC,,29601.0,,"1 Saint Francis Drive, Greenville SC 29601",34.8472,-82.406,5
+383,13639,hematology/oncology,AdventHealth,,,,,Hendersonville,,,NC,,28792.0,,"100 Hospital Drive, Hendersonville NC 28792",35.3613,-82.4264,5
+390,13654,hematology/oncology,Southern Cancer Center,,,,,Mobile,,,AL,,36608.0,,"6701 Airport Blvd, Bldg B, Terrace Level, Mobile AL 36608",30.6817,-88.2945,5
+483,13903,hematology/oncology,Bon Secours Saint Francis Health System,,,,,Greenville,,,SC,,29601.0,,"1 Saint Francis Drive, Greenville SC 29601",34.8472,-82.406,5
+507,13987,hematology/oncology,Mary Bird Perkins Cancer Center,,,,,Baton Rouge,,,LA,,70809.0,,"4950 Essen Lane, Baton Rouge LA 70809",30.4089,-91.0842,5
+561,14146,Oncology,Virginia Oncology Associates,,,,,Newport News,,,VA,,23606.0,,"1051 Loftis Boulevard, Suite 100, Newport News VA 23606",37.0768,-76.4967,5
+598,14262,hematology/oncology,Hematology Oncology Assoc. of Fredericksburg,,,,,Fredericksburg,,,VA,,22408.0,,"4501 Empire Ct, Fredericksburg VA 22408",38.2481,-77.4681,5
+613,14304,hematology/oncology,BHMA Hematology and Oncology-Kingsport,,,,,Kingsport,,,VA,,37660.0,,"2202 N John B Dennis Hwy, Suite 100, Kingsport VA 37660",36.5484,-82.5618,5
+618,14315,hematology/oncology,MUSC - Lancaster Medical Center,,,,,MUSC Lancaster,,,SC,,29720.0,,"800 West Meeting Street, MUSC Lancaster SC 29720",34.749,-80.7616,5
+671,14469,Oncology,Scully Welsh Cancer Center,,,,,Vero Beach,,,FL,,32960.0,,"3555 10th Court, Vero Beach FL 32960",27.633,-80.4031,5
+705,14568,hematology/oncology,Carolina Blood and Cancer Care Associates,,,,,Rock Hill,,,SC,,29732.0,,"1583 Health Care Drive, Rock Hill SC 29732",34.9681,-81.0489,5
+719,14596,hematology/oncology,Augusta Health Cancer Center,,,,,Fishersville,,,VA,,22939.0,,"78 Medical Center Drive, Fishersville VA 22939",38.0964,-78.9929,5
+720,14597,Hematology / Medical Oncology,Agusta Health Center for Cancer & Blood Disorders,,,,,Fisherville,,,VA,,22939.0,,"78 Medical Center Dr., Fisherville VA 22939",38.0964,-78.9929,5
+756,14688,Oncology,Advent Health Haywood Cancer Services,,,,,Clyde,,,SC,,28721.0,,"600 Hospital Drive, Suite 2, Clyde SC 28721",35.5597,-82.9216,5
+935,15129,Oncology,Florida Cancer Specialists,,,,,Fleming Island,,,FL,,32003.0,,"4689 US Highway 17, Suite 2, Fleming Island FL 32003",30.0933,-81.719,5
+992,15267,hematology/oncology,Bon Secours Saint Francis Health System,,,,,Greenville,,,SC,,29601.0,,"1 Saint Francis Drive, Greenville SC 29601",34.8472,-82.406,5
+1022,15342,hematology/oncology,Robert and Carol Weissman Cancer Center,,,,,Stuart,,,FL,,34994.0,,"501 SE Osceola St., Stuart FL 34994",27.1968,-80.2538,5
+1036,12658,hematology/oncology,CHRISTUS St. Frances Cabrini Hospital,,3330.0,Masonic Drive,,Alexandria,,Rapides Parish,LA,US,71301.0,,"3330 Masonic Dr, Alexandria, LA 71301, USA",31.2833061,-92.4619904,5
+1051,12686,hematology/oncology,W.G. Hefner VA Medical Center,,1408.0,N Long St,,Salisbury,Salisbury,Rowan County,NC,US,28144.0,3740.0,"1408 N Long St, Salisbury, NC 28144, USA",35.6751404,-80.4516296,5
+1187,12955,hematology/oncology,Blue Ridge Cancer Care - Blacksburg,Ste A,2600.0,Research Center Drive,Farmview - Ramble,Blacksburg,,Montgomery County,VA,US,24060.0,6325.0,"2600 Research Center Dr Ste A, Blacksburg, VA 24060, USA",37.1954727,-80.4044418,5
+1235,13052,hematology/oncology,Rapides Regional Medical Center,,211.0,4th Street,,Alexandria,,Rapides Parish,LA,US,71301.0,,"211 4th St, Alexandria, LA 71301, USA",31.3148575,-92.4499512,5
+1310,13199,Oncology,Crestwood Medical Center,,1.0,Hospital Drive Southwest,,Huntsville,,Madison County,AL,US,35801.0,,"1 Hospital Drive Southwest, Huntsville, AL 35801, USA",34.6933823,-86.5725174,5
+1315,13206,hematology/oncology,Sentara Halifax Regional Hospital,,2204.0,Wilborn Ave,,South Boston,8,Halifax County,VA,US,24592.0,,"2204 Wilborn Ave, South Boston, VA 24592, USA",36.7121124,-78.9127655,5
+1422,13394,hematology/oncology,Blue Ridge Cancer Care- Salem,,1900.0,Electric Rd,,Salem,,,VA,US,24153.0,7474.0,"1900 Electric Rd, Salem, VA 24153, USA",37.2632027,-80.0314941,5
+1624,13798,hematology/oncology,Cancer Center of East Alabama,,2000.0,Pepperell Pkwy,,Opelika,,Lee County,AL,US,36801.0,,"2000 Pepperell Pkwy, Opelika, AL 36801, USA",32.6401634,-85.4037476,5
+1656,13857,hematology/oncology,Peninsula Cancer Institute,Suite 201,12100.0,Warwick Blvd,Warwick,Newport News,,,VA,US,23601.0,2365.0,"12100 Warwick Blvd #201, Newport News, VA 23601, USA",37.0612602,-76.4846344,5
+1704,13932,hematology/oncology,Sentara CarePlex Hospital,,3000.0,Coliseum Drive,Coliseum Central,Hampton,,,VA,US,23666.0,,"3000 Coliseum Dr, Hampton, VA 23666, USA",37.0568428,-76.3901672,5
+1748,14009,hematology/oncology,Spencer Cancer Center,,2501.0,Village Professional Drive,,Opelika,,Lee County,AL,US,36801.0,,"2501 Village Professional Dr, Opelika, AL 36801, USA",32.6445961,-85.4148941,5
+1758,14029,Oncology,W.G. Hefner VA Medical Center,,1408.0,N Long St,,Salisbury,Salisbury,Rowan County,NC,US,28144.0,3740.0,"1408 N Long St, Salisbury, NC 28144, USA",35.6751404,-80.4516296,5
+1798,14100,Infectious Disease and Hematology,East Alabama Infectious Disease,,2000.0,Pepperell Pkwy,,Opelika,,Lee County,AL,US,36801.0,,"2000 Pepperell Pkwy, Opelika, AL 36801, USA",32.6401634,-85.4037476,5
+1960,14395,hematology/oncology,Green Clinic,,604.0,Bonnie Blue Lane,,Ruston,,Jackson Parish,LA,US,71270.0,3870.0,"604 Bonnie Blue Ln, Ruston, LA 71270, USA",32.4475822,-92.6671524,5
+2184,14842,hematology/oncology,St. Francis Hospital,,1.0,St Francis Dr,Sterling,Greenville,,Greenville County,SC,US,29601.0,,"1 St Francis Dr, Greenville, SC 29601, USA",34.840374,-82.4214401,5
+2223,14927,hematology/oncology,John B. Amos Cancer Center,,1831.0,5th Avenue,,Columbus,,Muscogee County,GA,US,31904.0,,"1831 5th Ave, Columbus, GA 31904, USA",32.4810104,-84.9868851,5
+2259,14999,hematology/oncology,North Oaks Medical Center,,15837.0,Paul Vega MD Drive,,Hammond,,Tangipahoa Parish,LA,US,70403.0,,"15837 Paul Vega MD Dr, Hammond, LA 70403, USA",30.4670181,-90.4586868,5
+2303,15102,hematology/oncology,Alabama Oncology -Princeton,,833.0,Princeton Avenue Southwest,Arlington - West End,Birmingham,,Jefferson County,AL,US,35211.0,,"833 Princeton Ave SW, Birmingham, AL 35211, USA",33.4985313,-86.8457336,5
