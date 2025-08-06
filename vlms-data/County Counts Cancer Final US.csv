@@ -1,0 +1,261 @@
+fips,addressCounty,addressState,count
+1003,Baldwin County,AL,38
+1007,Bibb County,AL,3
+1015,Calhoun County,AL,6
+1017,Chambers County,AL,51
+1021,Chilton County,AL,1
+1031,Coffee County,AL,206
+1033,Colbert County,AL,259
+1039,Covington County,AL,8
+1043,Cullman County,AL,1
+1055,Etowah County,AL,1008
+1059,Franklin County,AL,6
+1069,Houston County,AL,58
+1073,Jefferson County,AL,1731
+1077,Lauderdale County,AL,10
+1081,Lee County,AL,2314
+1089,Madison County,AL,1313
+1097,Mobile County,AL,156
+11001,District of Columbia County,DC,1
+1101,Montgomery County,AL,4
+1103,Morgan County,AL,8
+1111,Randolph County,AL,2
+1113,Russell County,AL,151
+1115,St. Clair County,AL,1
+1117,Shelby County,AL,1
+1121,Talladega County,AL,141
+1123,Tallapoosa County,AL,389
+12001,Alachua County,FL,2
+12011,Broward County,FL,6
+12019,Clay County,FL,921
+12021,Collier County,FL,2
+12031,Duval County,FL,326
+12033,Escambia County,FL,3
+12061,Indian River County,FL,621
+12071,Lee County,FL,6
+12073,Leon County,FL,15
+12083,Marion County,FL,2
+12085,Martin County,FL,1
+12086,Miami-Dade County,FL,2
+12091,Okaloosa County,FL,715
+12095,Orange County,FL,2
+12097,Osceola County,FL,5
+12099,Palm Beach County,FL,615
+12103,Pinellas County,FL,54
+12111,St. Lucie County,FL,7
+12113,Santa Rosa County,FL,8
+13053,Chattahoochee County,GA,3
+13077,Coweta County,GA,6
+13089,DeKalb County,GA,1
+13095,Dougherty County,GA,9
+13099,Early County,GA,1
+13115,Floyd County,GA,10
+13121,Fulton County,GA,3
+13139,Hall County,GA,60
+13185,Lowndes County,GA,261
+13215,Muscogee County,GA,140
+13245,Richmond County,GA,1
+13275,Thomas County,GA,4
+13285,Troup County,GA,1
+17031,Cook County,IL,3
+17167,Sangamon County,IL,9
+19111,Lee County,IA,4
+20173,Sedgwick County,KS,12
+2020,Anchorage,AK,3
+21067,Fayette County,KY,11
+21111,Jefferson County,KY,2
+21195,Pike County,KY,1
+22009,Avoyelles Parish,LA,1
+22011,Beauregard Parish,LA,97
+22015,Bossier Parish,LA,21
+22017,Caddo Parish,LA,465
+22019,Calcasieu Parish,LA,4
+22027,Claiborne Parish,LA,4
+22033,East Baton Rouge Parish,LA,16
+22035,East Carroll Parish,LA,3
+22041,Franklin Parish,LA,17
+22055,Lafayette Parish,LA,5
+22061,Lincoln Parish,LA,91
+22069,Natchitoches Parish,LA,147
+22071,Orleans Parish,LA,1
+22073,Ouachita Parish,LA,1141
+22079,Rapides Parish,LA,413
+22083,Richland Parish,LA,6
+22097,St. Landry Parish,LA,241
+22105,Tangipahoa Parish,LA,208
+22111,Union Parish,LA,3
+22115,Vernon Parish,LA,1
+22119,Webster Parish,LA,2
+22123,West Carroll Parish,LA,32
+24003,Anne Arundel County,MD,3
+24031,Montgomery County,MD,27
+24045,Wicomico County,MD,1
+26021,Berrien County,MI,1
+26049,Genesee County,MI,11
+26065,Ingham County,MI,9
+26081,Kent County,MI,9
+26093,Livingston County,MI,1
+26099,Macomb County,MI,16
+26125,Oakland County,MI,1
+26163,Wayne County,MI,24
+28003,Alcorn County,MS,94
+28047,Harrison County,MS,3
+28049,Hinds County,MS,3
+28073,Lamar County,MS,1
+28081,Lee County,MS,8
+29019,Boone County,MO,2
+29029,Camden County,MO,6
+29077,Greene County,MO,1
+29186,Ste. Genevieve County,MO,1
+29510,St. Louis City County,MO,3
+32003,Clark County,NV,2
+33009,Grafton County,NH,1
+34003,Bergen County,NJ,1
+34011,Cumberland County,NJ,4
+34013,Essex County,NJ,1
+36103,Suffolk County,NY,1
+37021,Buncombe County,NC,367
+37023,Burke County,NC,2
+37051,Cumberland County,NC,320
+37057,Davidson County,NC,5
+37063,Durham County,NC,2
+37065,Edgecombe County,NC,1
+37067,Forsyth County,NC,7
+37071,Gaston County,NC,188
+37087,Haywood County,NC,310
+37089,Henderson County,NC,152
+37099,Jackson County,NC,2
+37119,Mecklenburg County,NC,8
+37125,Moore County,NC,1
+37129,New Hanover County,NC,20
+37139,Pasquotank County,NC,51
+37149,Polk County,NC,138
+37155,Robeson County,NC,8
+37159,Rowan County,NC,755
+37163,Sampson County,NC,1
+37173,Swain County,NC,2
+37175,Transylvania County,NC,8
+37183,Wake County,NC,2
+39035,Cuyahoga County,OH,7
+39049,Franklin County,OH,12
+39057,Greene County,OH,6
+39061,Hamilton County,OH,4
+39095,Lucas County,OH,6
+39153,Summit County,OH,6
+40109,Oklahoma County,OK,3
+4013,Maricopa County,AZ,3
+40143,Tulsa County,OK,3
+42003,Allegheny County,PA,11
+42011,Berks County,PA,1
+42043,Dauphin County,PA,5
+42045,Delaware County,PA,3
+42049,Erie County,PA,6
+42077,Lehigh County,PA,6
+42093,Montour County,PA,10
+42095,Northampton County,PA,4
+42101,Philadelphia County,PA,2
+42133,York County,PA,1
+45001,Abbeville County,SC,1
+45003,Aiken County,SC,715
+45007,Anderson County,SC,314
+45009,Bamberg County,SC,5
+45015,Berkeley County,SC,39
+45019,Charleston County,SC,768
+45021,Cherokee County,SC,16
+45023,Chester County,SC,90
+45027,Clarendon County,SC,1
+45031,Darlington County,SC,1
+45033,Dillon County,SC,4
+45035,Dorchester County,SC,13
+45041,Florence County,SC,202
+45043,Georgetown County,SC,15
+45045,Greenville County,SC,2548
+45047,Greenwood County,SC,37
+45051,Horry County,SC,690
+45055,Kershaw County,SC,16
+45057,Lancaster County,SC,261
+45063,Lexington County,SC,3
+45067,Marion County,SC,4
+45071,Newberry County,SC,99
+45075,Orangeburg County,SC,373
+45079,Richland County,SC,320
+45081,Saluda County,SC,1
+45083,Spartanburg County,SC,4423
+45085,Sumter County,SC,739
+45091,York County,SC,1201
+46103,Pennington County,SD,42
+47001,Anderson County,TN,1
+47035,Cumberland County,TN,29
+47037,Davidson County,TN,10
+47065,Hamilton County,TN,32
+47093,Knox County,TN,16
+47145,Roane County,TN,1
+47149,Rutherford County,TN,2
+47157,Shelby County,TN,1
+47163,Sullivan County,TN,77
+47179,Washington County,TN,5
+48027,Bell County,TX,4
+48029,Bexar County,TX,8
+48041,Brazos County,TX,1
+48113,Dallas County,TX,11
+48141,El Paso County,TX,3
+48167,Galveston County,TX,6
+48201,Harris County,TX,22
+48215,Hidalgo County,TX,1
+48303,Lubbock County,TX,2
+48339,Montgomery County,TX,2
+48355,Nueces County,TX,1
+48439,Tarrant County,TX,7
+49019,Grand County,UT,3
+51005,Alleghany County,VA,150
+51013,Arlington County,VA,3
+51015,Augusta County,VA,754
+51023,Botetourt County,VA,30
+51059,Fairfax County,VA,30
+51067,Franklin County,VA,5
+51071,Giles County,VA,92
+51073,Gloucester County,VA,80
+51083,Halifax County,VA,545
+51087,Henrico County,VA,1751
+51089,Henry County,VA,102
+51095,James City County,VA,28
+51109,Louisa County,VA,1
+51117,Mecklenburg County,VA,4
+51121,Montgomery County,VA,3614
+51131,Northampton County,VA,11
+51141,Patrick County,VA,3
+51143,Pittsylvania County,VA,52
+51147,Prince Edward County,VA,6
+51153,Prince William County,VA,180
+51155,Pulaski County,VA,95
+51161,Roanoke County,VA,2385
+51163,Rockbridge County,VA,5
+51167,Russell County,VA,15
+51173,Smyth County,VA,108
+51177,Spotsylvania County,VA,371
+51179,Stafford County,VA,15
+51185,Tazewell County,VA,145
+51187,Warren County,VA,1
+5119,Pulaski County,AR,1
+51191,Washington County,VA,1219
+51195,Wise County,VA,3
+51197,Wythe County,VA,127
+51199,York County,VA,7
+5145,White County,AR,1
+51520,Bristol City County,VA,4
+51590,Danville City County,VA,740
+51640,Galax City County,VA,1
+51650,Hampton City County,VA,29
+51680,Lynchburg City County,VA,1
+51683,Manassas City County,VA,4
+51700,Newport News City County,VA,1119
+51710,Norfolk City County,VA,122
+51740,Portsmouth City County,VA,240
+51750,Radford City County,VA,8
+51790,Staunton City County,VA,1
+51810,Virginia Beach City County,VA,6
+54039,Kanawha County,WV,19
+54055,Mercer County,WV,9
+54061,Monongalia County,WV,1
+55079,Milwaukee County,WI,8
+8035,Douglas County,CO,1
