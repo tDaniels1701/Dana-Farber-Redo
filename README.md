@@ -1,28 +1,35 @@
 # DF-Cancer-Research
 Dana Farber Cancer Research
 
+# Project Synopsis 
+
+Convert the Dana Farber Cancer Research Dashboard from utilizing Plotly Dash-Heroku to Shiny-Quarto
+
+Reference App: https://dana-farber-cancer-b39f6192ee61.herokuapp.com/
+
 ## 💻 Technology
 
 - Python
-- [uv][uv] - optional
 - [Jupyter][jupyter]
+-[Quarto][quarto]
+-[Shiny][shiny]
 
 ## 🚀 Getting Started
 
-This project uses Python (see the `.python-version`). uv handles the virtual environment
+This project uses Python.
 
 1. Install Python
-2. Install [uv][uv-install] 
-3. Setup [virtual environment][uv-venv] `uv venv`or `python venv`
-4. Sync dev dependencies `uv sync --dev` or `python sync --dev`
-5. `python app.py`
+2. Install import Packages
+3. Edit `surveil.ipynb`
+4. Save `surveil.ipynb`
+   - If you make changes to `.ipynb` file make sure to convert!
+5. Run `quarto convert surveil.ipynb`
+6. Run `quarto render surveil.qmd`
 
-## ✅ Lint
+<!-- Relative Links -->
 
-Ensure that the [pylint version matches superlinter][superlinter-pylint].
-
-- Lint - `python run pylint _app.py`
-- Type Check - `python run mypy _app.py`
-
+[jupyter]: https://jupyter.org/
+[quarto]: https://quarto.org/
+[shiny]: https://shiny.posit.co/py/
 
 
