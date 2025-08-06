@@ -1,0 +1,12 @@
+,recordID,rotationType,patientSex,patientAge,code,codeDescription,entryLoggedAt,name,addressStreetNumber,addressStreetRoute,addressLocality,addressDistrict,addressCounty,addressState,addressCountry,addressPostalCode,addressPostalCodeSuffix,addressFormatted,geoLatitude,geoLongitude,entryDate,fips
+12940,1730647,RMUP Primary Care,Male,65-84,C25.0,Malignant neoplasm of head of pancreas,2020-09-08 23:23:23,Lake Martin,,,,,,AL,US,,,"Lake Martin, Alabama, USA",32.7261963,-85.9457855,2020-09-08,
+12941,1730649,RMUP Primary Care,Male,65-84,C73,Malignant neoplasm of thyroid gland,2020-09-08 23:23:32,Lake Martin,,,,,,AL,US,,,"Lake Martin, Alabama, USA",32.7261963,-85.9457855,2020-09-08,
+12942,1730650,RMUP Primary Care,Male,65-84,C85.9,"Non-Hodgkin lymphoma, unspecified",2020-09-08 23:23:47,Lake Martin,,,,,,AL,US,,,"Lake Martin, Alabama, USA",32.7261963,-85.9457855,2020-09-08,
+26609,4070516,Family Medicine,Male,45-64,C61,Malignant neoplasm of prostate,2022-09-16 03:37:29,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2022-09-16,
+27511,4199573,Internal Medicine 1,Male,65-84,C91.1,Chronic lymphocytic leukemia of B-cell type,2022-10-18 03:56:10,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2022-10-18,
+27719,4223854,Internal Medicine 1,Male,65-84,C25.9,"Malignant neoplasm of pancreas, unspecified",2022-10-21 17:45:57,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2022-10-21,
+27725,4224546,Internal Medicine 1,Female,65-84,C73,Malignant neoplasm of thyroid gland,2022-10-21 18:19:45,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2022-10-21,
+27731,4225166,Internal Medicine 1,Male,65-84,C61,Malignant neoplasm of prostate,2022-10-21 18:46:35,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2022-10-21,
+27732,4225335,Internal Medicine 1,Male,45-64,C61,Malignant neoplasm of prostate,2022-10-21 18:54:00,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2022-10-21,
+29849,4518929,Surgery,Male,45-64,C34.90,Malignant neoplasm of unspecified part of unspecified bronchus or lung,2023-01-28 14:33:19,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2023-01-28,
+29850,4518930,Surgery,Female,65-84,C18.9,"Malignant neoplasm of colon, unspecified",2023-01-28 14:33:50,Louisiana,,,,,,LA,US,,,"Louisiana, USA",30.9842968,-91.9623337,2023-01-28,
